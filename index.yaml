@@ -3,13 +3,13 @@ entries:
   giropops-senhas:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-09-10T08:05:13.063250416-03:00"
+    created: "2024-09-10T08:16:54.666512191-03:00"
     description: Gerador de senhas criado junto com o Xet em live
-    digest: 5a3a81d0fab7d2c9b51eb00756ce123f494a433a572446efd6ff194e781fd194
+    digest: c08dca0ec0484e11d7d26f4750cbfbd747e48a379122f0786ed5d18fcf538586
     name: giropops-senhas
     sources:
-    - https://github.com/badtuxx/giropops-senhas
+    - https://github.com/maycon1986/chat-aula
     urls:
     - https://maycon1986.github.io/chat-aula/giropops-senhas-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-10T08:05:13.062852795-03:00"
+generated: "2024-09-10T08:16:54.666103644-03:00"
